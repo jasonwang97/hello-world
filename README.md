@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hello, my name is Jason, and I am a Master's student studying GIS.
+
